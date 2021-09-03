@@ -1,5 +1,4 @@
-# dev-sandbox
-Dev Sandbox to practice web development
+# DEV  SANDBOX
+## This sandbox could be used to practice web development
 
-Git 
-[Git Commands](../git-cheat-sheet-education.pdf)
+1. [Git Commands](git-cheat-sheet-education.pdf)
